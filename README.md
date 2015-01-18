@@ -2,12 +2,12 @@
 [PennApps 2015] A wearable drum that you can bring anywhere with your band!
 
 ##Brief
-With powerful wearable sensors like Pebble watch, we want to bring new experiences to players.
-Users can play in 3D.
-We admire musicians and hope to make their performance easier.
-With our app users are able to simulate drum set without having an actual one. 
-Anyone who loves music, wants to perform and practice drums, or even just need to express their feelings with powerful beats can find the app very helpful and feasible. 
-The use of pebble makes it possible that users don't have to bring any additional equipment other than phones/watches that people live with everyday to play drum anywhere whenever they want. 
+ - With powerful wearable sensors like Pebble watch, we want to bring new experiences to players.
+ - Users can play in 3D.
+ - We admire musicians and hope to make their performance easier.
+ - With our app users are able to simulate drum set without having an actual one. 
+ - Anyone who loves music, wants to perform and practice drums, or even just need to express their feelings with powerful beats can find the app very helpful and feasible. 
+ - The use of pebble makes it possible that users don't have to bring any additional equipment other than phones/watches that people live with everyday to play drum anywhere whenever they want. 
 
   
 #Pebble Air Drum App Description
