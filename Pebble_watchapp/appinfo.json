@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "lizhi.magic@gmail.com",
+    "longName": "PebbAirDrum",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/IMAGE_DRUM.png",
+                "name": "IMAGE_DRUM",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "withDistance",
+    "uuid": "0b8f7129-f5f2-4681-b16a-9820f0d5a8f4",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}

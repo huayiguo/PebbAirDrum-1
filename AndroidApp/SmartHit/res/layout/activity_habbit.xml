@@ -1,0 +1,71 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:custom="http://schemas.android.com/apk/res/custom.fonts"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   
+    tools:context="hackathon.smarthit.Habbit" >
+
+    <ImageView 
+        	android:id="@+id/theimage"
+       		android:layout_width="match_parent"
+        	android:layout_height="match_parent"
+        	android:gravity="bottom"
+        	android:src="@drawable/pennapps_2"
+        	android:paddingTop="0dip"
+        	/>  
+
+         
+    <ImageView
+        android:id="@+id/Left_hand"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="330dp"
+        android:layout_marginLeft="40dp"
+        android:src="@drawable/left"
+         />
+       
+    <ImageButton
+        android:id="@+id/Left"
+        style="@style/Baroque"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Left_hand"
+        android:layout_alignLeft="@id/Left_hand"
+        android:layout_marginLeft="50dp"
+        android:background="@null"
+        android:src = "@drawable/left_text" />
+    
+    <ImageView
+        android:id="@+id/Right_hand"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignBottom="@id/Left_hand"
+        android:layout_toRightOf="@id/Left_hand"
+        android:layout_marginLeft="150dp"
+        android:src="@drawable/right"/>
+    
+
+     <ImageButton
+        android:id="@+id/Right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Right_hand"
+        android:layout_alignLeft="@id/Right_hand"
+
+        android:background="@null"
+        android:src="@drawable/right_text" />
+    
+      
+     <ImageButton
+        android:id="@+id/Confirm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Left_hand"
+        android:layout_alignLeft="@id/Left_hand"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="90dp"
+        android:background="@null"
+        android:src="@drawable/confirm_text" />
+       
+</RelativeLayout>
