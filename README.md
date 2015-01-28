@@ -30,3 +30,16 @@ Latency:
 There is a perceptible latency in the Android app reaction. Since the data is processed in batch, not strictly real time, there will be a delay in Pebble watch process the data, and send the data to Android phone. However, the latency is acceptable.
 Accuracy:
 The user could obtain a good accuracy if performing “as expected”.
+
+##Some Screenshots
+
+* First three for Android App, the last one is APP_LOG output recording gesture recoginition.
+|                |                |
+|:--------------:| --------------:|
+|![alt text][p1] |![alt text][p2] |
+| ![alt text][p3]|![alt text][p4] |
+
+[p1]: https://github.com/snugglelamb/PebbAirDrum/blob/master/screenshots/p0.png "p1"
+[p2]: https://github.com/snugglelamb/PebbAirDrum/blob/master/screenshots/p1.png "p2"
+[p3]: https://github.com/snugglelamb/PebbAirDrum/blob/master/screenshots/p2.png "p3"
+[p4]: https://github.com/snugglelamb/PebbAirDrum/blob/master/screenshots/p3.png "p4"
