@@ -34,6 +34,7 @@ The user could obtain a good accuracy if performing “as expected”.
 ##Some Screenshots
 
 * First three for Android App, the last one is APP_LOG output recording gesture recoginition.
+
 |                |                |
 |:--------------:| --------------:|
 |![alt text][p1] |![alt text][p2] |
